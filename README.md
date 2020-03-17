@@ -1,5 +1,6 @@
 ## NK-Cinema
-
+NK-Cinema is a React app that provide movies and TV shows information.
+This app using the MovieDB database and API to render data and movie information.
 
 ## Screenshots
 ![nk-movie1](https://user-images.githubusercontent.com/55742997/76842699-5a947e00-6843-11ea-9493-26400698c69a.jpg)
