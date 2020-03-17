@@ -1,3 +1,18 @@
+## NK-Cinema
+
+
+## Screenshots
+![nk-movie1](https://user-images.githubusercontent.com/55742997/76842699-5a947e00-6843-11ea-9493-26400698c69a.jpg)
+
+![nk-movie2](https://user-images.githubusercontent.com/55742997/76842705-5c5e4180-6843-11ea-9446-0f82f3d709ce.jpg)
+
+![nk-movie3](https://user-images.githubusercontent.com/55742997/76842713-5d8f6e80-6843-11ea-9024-6ef5fc767cc4.jpg)
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
